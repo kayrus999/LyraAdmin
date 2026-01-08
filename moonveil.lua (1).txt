@@ -1,7 +1,0 @@
-Parse error:
-	at line 88: Expected '}' (to close '{' at line 29), got 'ate'
-	at line 88: Expected identifier when parsing expression, got '02'
-	at line 88: Expected identifier when parsing expression, got '/'
-	at line 88: Expected identifier when parsing expression, got '08'
-	at line 88: Expected identifier when parsing expression, got ','
-	at line 89: Expected identifier when parsing expression, got '}'
